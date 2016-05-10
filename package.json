@@ -1,0 +1,29 @@
+{
+  "name": "ionic-crawler",
+  "version": "1.0.0",
+  "description": "Ionic Crawler and Screenshot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortezcristian/ionic-crawler.git"
+  },
+  "keywords": [
+    "ionic",
+    "crawler",
+    "screenshot"
+  ],
+  "author": "Cristian Cortez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cortezcristian/ionic-crawler/issues"
+  },
+  "homepage": "https://github.com/cortezcristian/ionic-crawler#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "cheerio": "^0.20.0",
+    "nightmare": "^2.4.0"
+  }
+}
